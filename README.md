@@ -26,6 +26,6 @@ This repository contains my resume created using Power BI. It provides a dynamic
 ## Contact
 Feel free to reach out for any inquiries or collaboration opportunities:
 - **Email:** thakurajaysingh978@gmail.com
-- **LinkedIn:** [Ajay Thakur](https://www.linkedin.com/in/Ajay_Thakur)
+- **LinkedIn:** [Ajay Thakur](https://www.linkedin.com/in/ajay-singh-thakur-556140298/)
 
 Thank you for your interest!
